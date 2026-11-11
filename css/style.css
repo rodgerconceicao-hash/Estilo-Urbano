@@ -1,9 +1,9 @@
 /* ===== CORES E FONTES DA MARCA (identidade visual) ===== */
 :root {
-  --roxo: #4a1d5e;
-  --roxo-claro: #efe6f3;
-  --verde: #2e7d32;
-  --creme: #f7f3ea;
+  --roxo: 	#1B2A4A;
+  --roxo-claro: #A7C7E7;
+  --verde:	#C8B6A6;
+  --creme: #D8E6F3;
   --texto: #222222;
   --erro: #b3261e;
   --fonte: Arial, Helvetica, sans-serif;
